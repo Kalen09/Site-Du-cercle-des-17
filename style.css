@@ -75,6 +75,7 @@ header {
 }
 #fini {
     text-align: center;
+    margin-top: 220px;
 }
 #li {
     line-height: 1.9;
@@ -104,4 +105,18 @@ header {
 }
 #sio{
     text-align: center;
+}
+
+.ti {
+    display: flex;
+    gap: 500px;
+    margin-top: 120px;
+    margin-bottom: 280px;
+    align-items: center;
+}
+.mi {
+    padding-left:  370px;
+}
+.lire {
+   padding-top: 91px;
 }
