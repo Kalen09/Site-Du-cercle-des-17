@@ -106,7 +106,6 @@ header {
 #sio{
     text-align: center;
 }
-
 .ti {
     display: flex;
     gap: 500px;
@@ -120,3 +119,4 @@ header {
 .lire {
    padding-top: 91px;
 }
+
