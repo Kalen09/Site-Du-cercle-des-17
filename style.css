@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+}
+#logo {
+position: absolute;
+top: 0;
+left: 0;
+padding: 19px;
+width: 60px;
+height: 100px;
+}
+
+header {
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.863);
+    padding: 1px;
+}
+#inti {
+    text-align: center;
+    color: aliceblue;
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+}
+.pt {
+    position: relative;
+    width: 100%;
+    margin: 0;
+}
+.overley {
+    position: absolute;
+    inset: 0;
+    background-color: rgba(8, 8, 8, 0.753);
+}
+.pt p {
+    position: absolute;
+    color: white;
+    top: 10%;
+    left: 10%;
+    margin: 0;
+    padding-top: 130px;
+    transform: translate(-5%, -5%);
+    font-size: 50px;
+    max-width: 100%;
+    text-align: center;
+    line-height: 1.4;
+}
+.pt img {
+    width: 100%;  
+}
+.ma {
+    display: flex;
+    gap: 300px;
+    margin-top: 40px;
+    margin-bottom: 250px;
+}
+.Theelectrique {
+    left: 0;
+    padding-left: 150px;
+    text-align: center;
+    padding-top: 150px;
+    max-width: 700px;
+    font-size: 25px;
+}
+.michel {
+    width: 500px;
+    height: 650px;
+    padding-top: 150px;
+}
+#audio {
+    text-align: center;
+}
+.you {
+    text-align: center;
+}
+#fini {
+    text-align: center;
+}
+#li {
+    line-height: 1.9;
+    padding-top: 90px;
+}
+#lo{
+    line-height: 1.9;
+    padding-left:100px;
+}
+#ti {
+    padding-top: 229px;
+    padding-bottom: 229px;
+}
+#imge{
+    text-align: center;
+}
+.tomas {
+    width: 264px;
+    height: 423px;
+}
+#adas {
+    display: flex;
+    gap: 390px;
+    padding-left: 162px;
+    padding-bottom: 110px;
+    padding-top: 110px;
+}
+#sio{
+    text-align: center;
+}
